@@ -2,7 +2,9 @@
 # Redesigning the Dunkin webpage
 
 To showcase a new design
+
 Focus on Dunkin's products
+
 Scrolling banner at the top to add some motion and showcase current offerings or new products
 
 ---------------------------------
