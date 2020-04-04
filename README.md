@@ -3,8 +3,10 @@ Redesigning the Dunkin webpage
 To showcase Dunkin's products
 
 Carrie Hinson
+
 Susan Dunaway
-3/29/2020
+
+4/4/2020
 
 https://github.com/carhin6514/courseProject
 
