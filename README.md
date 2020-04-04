@@ -1,7 +1,9 @@
 # courseProject
 # Redesigning the Dunkin webpage
 To showcase Dunkin's products 
+
 Took focus off Dunkin Perks program
+
 Scrolling banner at the top to add some motion and showcase current offerings or new products
 
 Carrie Hinson
