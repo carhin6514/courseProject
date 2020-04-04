@@ -24,4 +24,4 @@ Susan also recommended adding a slight background change between the sections of
 
 After adding the changes, I decided to add some effects to some of the larger text. I added a drop shadow to add some effect against the flat design. I liked the look of the Inner shadow when viewing from Figma but after posting to github noticed the colors looked darker (the white looked more of a gray)—but like the 3D effect it added. I changed it back to just the drop shadow because I didn’t want it dulling my colors, I wanted to the pink, orange, and white text to pop.
 
-![](images/dunkin_figma1.png)
+![](images/dunkin_figma.png)
