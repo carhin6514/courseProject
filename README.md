@@ -15,6 +15,7 @@ Susan Dunaway
 4/4/2020
 
 https://github.com/carhin6514/courseProject
+Figma Link https://www.figma.com/file/PyZAutedpJdPAAN4WQoQet/Dunkin?node-id=1%3A2
 
 Susan reviewed my Figma and liked that I kept the colors the same of the company I chose. Pink and orange are signature colors for Dunkin and I didn’t think changing those would adequately portray the company’s brand. For the most part, the layout of the original design was good it was just that I thought they should focus more on their products than on their perk reward program.
 
